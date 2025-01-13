@@ -17,7 +17,7 @@ The Train Loading Management System is a C programming project that simulates re
 ## Installation
 1. Clone the repository:
    bash
-   git clone [repository URL]
+   git clone [(https://github.com/fatmanurb/train_management.git)]
    
 2. Navigate to the project directory:
    bash
