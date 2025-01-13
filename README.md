@@ -21,15 +21,14 @@ The Train Loading Management System is a C programming project that simulates re
    
 2. Navigate to the project directory:
    bash
-   cd train-loading-system
+   cd train-management
    
 3. Compile the project using the Makefile:
-   bash
+   make clear
    make
    
-4. Run the program:
-   bash
-   ./train_loading
+5. Run the program:
+   ./train_management
    
 
 ## Usage
